@@ -69,6 +69,7 @@ Not currently a comprehensive list.
    * :doc:`divide`
    * :doc:`dot`
    * :doc:`drop_out`
+   * :doc:`embedding_lookup`
    * :doc:`equal`
    * :doc:`exp`
    * :doc:`floor`
@@ -136,6 +137,7 @@ Not currently a comprehensive list.
    divide.rst
    dot.rst
    drop_out.rst
+   embedding_lookup.rst
    equal.rst
    exp.rst
    floor.rst
